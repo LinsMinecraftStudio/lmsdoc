@@ -1,3 +1,2 @@
-# Headline
-
-> An awesome project.
+# LMS Wiki
+A wiki.

@@ -1,2 +1,2 @@
 # LMS Wiki
-[Start](README.md)
+[Start](Homepage.md)
